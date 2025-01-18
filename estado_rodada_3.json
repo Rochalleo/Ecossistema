@@ -1,0 +1,84 @@
+{
+    "criaturas": [
+        {
+            "id": 0,
+            "energia": 12,
+            "posicao": [
+                39,
+                2
+            ]
+        },
+        {
+            "id": 1,
+            "energia": 8,
+            "posicao": [
+                39,
+                26
+            ]
+        },
+        {
+            "id": 2,
+            "energia": 6,
+            "posicao": [
+                30,
+                41
+            ]
+        },
+        {
+            "id": 3,
+            "energia": 8,
+            "posicao": [
+                35,
+                1
+            ]
+        },
+        {
+            "id": 4,
+            "energia": 4,
+            "posicao": [
+                38,
+                35
+            ]
+        },
+        {
+            "id": 5,
+            "energia": 12,
+            "posicao": [
+                13,
+                1
+            ]
+        },
+        {
+            "id": 6,
+            "energia": 11,
+            "posicao": [
+                36,
+                6
+            ]
+        },
+        {
+            "id": 7,
+            "energia": 11,
+            "posicao": [
+                16,
+                39
+            ]
+        },
+        {
+            "id": 8,
+            "energia": 11,
+            "posicao": [
+                11,
+                14
+            ]
+        },
+        {
+            "id": 9,
+            "energia": 3,
+            "posicao": [
+                13,
+                5
+            ]
+        }
+    ]
+}
